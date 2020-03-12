@@ -1,0 +1,10 @@
+*.jpg
+*.png
+*.txt
+*.csv
+*.json
+*.pkl
+*.bin
+*.zip
+__pycache__/
+*/__pycache__/
